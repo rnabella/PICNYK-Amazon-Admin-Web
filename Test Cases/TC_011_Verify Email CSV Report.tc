@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_011_Verify Email CSV Report</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>47c98ab7-f892-4c79-b7a1-1f19ff21aef2</testCaseGuid>
+</TestCaseEntity>

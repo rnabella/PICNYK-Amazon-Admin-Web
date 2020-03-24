@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_001_Invalid Email Address</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eff21035-6bfb-4715-94f1-6d79b763c232</testCaseGuid>
+</TestCaseEntity>

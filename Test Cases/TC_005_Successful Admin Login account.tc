@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_005_Successful Admin Login account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>95cf6041-a419-41f8-9346-7e06f329c534</testCaseGuid>
+</TestCaseEntity>
